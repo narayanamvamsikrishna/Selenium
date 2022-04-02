@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/cldr-api_sjs0.6_2.13-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/gdx-1.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/gdx-1.9.10-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/gdx-backend-gwt-1.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/gdx-backend-gwt-1.9.10-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/gwt-user-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/htmlunit-driver-2.36.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/jar_files (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/jar_files (2).zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/jar_files (3).zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/jar_files.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/jarchivelib-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/JAVA-pdf-lectures.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/jsinterop-annotations-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/jsinterop-annotations-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/objectfabric-api-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/objectfabric-gwt-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/poi-3.11-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/poi-ooxml-3.11-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/poi-ooxml-schemas-3.11-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/portable-scala-reflect_sjs0.6_2.13-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/scala-java-locales_sjs0.6_2.13-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/scalajs-library_2.13-0.6.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/scala-library-2.13.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/selenium-htmlunit-driver-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/slf4j-api-1.7.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/validation-api-1.0.0.GA-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/vtm-0.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/vtm-gdx-0.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/vtm-themes-0.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/vtm-web-0.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/webdrivermanager-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi/Downloads/Selenium/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
